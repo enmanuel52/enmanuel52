@@ -3,7 +3,7 @@
 </div>
 <img src="https://i.pinimg.com/originals/c2/42/35/c24235e58fd7e387c4a87f039c470593.jpg">
 
-## Sobre mi
+## About me
 
 - 📲 Native android developer
 <!--
